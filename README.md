@@ -4,13 +4,12 @@ This Orthopedic Analytics Dashboard provides an overview of the performance of t
 
 **Objectives:**
 
-Track Department Performance: The dashboard tracks average PSAT scores and patient satisfaction over time, helping the department identify patterns in service quality and patient care.
+- Track Department Performance: The dashboard tracks average PSAT scores and patient satisfaction over time, helping the department identify patterns in service quality and patient care.
 
-Analyze Patient Demographics: The dashboard breaks down the number of patients by age group, helping identify which age groups are most frequent and enabling the department to plan better resources and staffing.
+- Analyze Patient Demographics: The dashboard breaks down the number of patients by age group, helping identify which age groups are most frequent and enabling the department to plan better resources and staffing.
 
-Evaluate Wait Times: The correlation between average wait time and the number of patients is visualized, which can help the department identify peak hours and optimize staffing to reduce patient wait times.
+- Evaluate Wait Times: The correlation between average wait time and the number of patients is visualized, which can help the department identify peak hours and optimize staffing to reduce patient wait times.
 
-Real-Time Insights: By providing real-time insights into key metrics, the dashboard empowers decision-makers to act quickly to improve operational efficiency, such as adjusting scheduling to reduce wait times.
 
 **Real-World Use:**
 
