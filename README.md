@@ -26,4 +26,3 @@ In the real world, this dashboard can be used by hospital administrators, depart
 - Pivot Table
 - Formulas
 - Chart
-- 
