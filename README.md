@@ -24,9 +24,9 @@ In the real world, this dashboard can be used by hospital administrators, depart
 ## **Insights and Analysis:**
 In 2023, there were 531 patients, with an average satisfaction score of 5.1 and an average wait time of 36 minutes.
 
-June and September have scored significantly low average PSAT score, this should be looked into further to understand. ␣␣
-**June**: Thursday had the longest average wait time (45 mins) and the PSAT score (5.0) with total 11 patients ␣␣
-          Monday gave the average wait time (34 mins) and the worst PSAT score (2.0) with total 6 patients ␣␣
+June and September have scored significantly low average PSAT score, this should be looked into further to understand.␣␣
+**June**: Thursday had the longest average wait time (45 mins) and the PSAT score (5.0) with total 11 patients␣␣
+          Monday gave the average wait time (34 mins) and the worst PSAT score (2.0) with total 6 patients␣␣
 **September**:
 
 
