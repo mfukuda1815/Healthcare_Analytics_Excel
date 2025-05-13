@@ -1,4 +1,4 @@
-# **Healthcare Analytics Project in Excel**
+# **🩺💉Healthcare Analytics Project in Excel📊**
 
 This Orthopedic Analytics Dashboard provides an overview of the performance of the Orthopedic Department in 2023. It presents key metrics such as number of patients, patient satisfaction scores, and average wait times. The dashboard visualizes monthly data on patient scores, the number of patients served, and potential correlations between wait times and patient volume. It also allows for easy exploration of insights based on different filters, including day of the week, month, and patient gender.
 
